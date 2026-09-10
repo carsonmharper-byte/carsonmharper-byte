@@ -6,7 +6,7 @@ Aspiring Financial Advisor & Student
 
 ### 🎓 About Me
 
-* 🏫 **Education:** Currently pursuing both Finance & Accounting majors at Baldwin Wallace University (Expected Graduation: 2028)
+* 🏫 **Education:** Currently pursuing both a Finance & Accounting major at Baldwin Wallace University (Expected Graduation: 2028)
 * 🔭 **Current Focus:** Learning Finance, Auditing, Excel, & Information Systems
 * 🌱 **Currently Building:** Excel Spreadsheet Auditing
 * 💡 **Interests:** Artifical Intelligence, Editing, Social Media
