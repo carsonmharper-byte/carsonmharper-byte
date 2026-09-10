@@ -1,5 +1,7 @@
 # Hi there, I'm Carson 👋
 
+* download my resume [here](https://rawcdn.githack.com/carsonmharper-byte/carsonmharper-byte/8a68e3affff410ae91824d4d19d21eb45c01857b/Copy%20of%20Resume%20(1).pdf)
+
 Aspiring Financial Advisor & Student
 
 ---
