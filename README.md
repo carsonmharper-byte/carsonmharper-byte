@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Carson 👋
 
-<!--
-**carsonmharper-byte/carsonmharper-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Financial Advisor & Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
+
+* 🏫 **Education:** Currently pursuing both Finance & Accounting majors at Baldwin Wallace University (Expected Graduation: 2028)
+* 🔭 **Current Focus:** Learning Finance, Auditing, Excel, & Information Systems
+* 🌱 **Currently Building:** Excel Spreadsheet Auditing
+* 💡 **Interests:** Artifical Intelligence, Editing, Social Media
+* ⚡ **Fun Fact:** I have a pet dog, she is a Yellow Labrador 
+
+---
+
+### 📌 Featured Projects
+
+| Stopwatch | Description | Built Using |
+| --- | --- | --- |
+| **CarsonHarper.pythonanywhere.com** | WebApp built on PythonAnywhere using Claude | Python & Claude
+
+
+---
+
+
+### 📫 Connect With Me
+
+* **Email:** charper24@bw.edu
